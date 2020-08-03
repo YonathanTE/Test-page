@@ -1,0 +1,22 @@
+body{
+	background-color: grey;
+}
+
+h1{
+font-size: 30px;
+color: darkblue;
+}
+
+h2{
+color:green;
+font-size: 35px;
+}
+
+.tight{
+font-size: 18px;
+}
+
+h1 span{
+color: black;
+
+}
